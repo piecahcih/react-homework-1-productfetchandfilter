@@ -53,7 +53,7 @@ function App() {
 
 
   return (
-    <div className='bg-[#fffdf0] h-screen font-mono p-12'>
+    <div className='bg-[#fffdf0] h-full min-h-screen font-mono p-12'>
 
       <div className='flex items-center justify-between my-2'>
         <h1 className='font-black text-4xl'>Products Fetch & Filter</h1>
